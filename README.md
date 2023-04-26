@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanunatta
 - 👀 I’m interested in Website Development/Create
 - 🌱 I’m currently learning and Wroking
-- 💞️ I’m looking to collaborate on give Project
+- 💞️ I’m looking for Project collaborate on Website Development
 - 📫 How to reach me mail Sanunatta98@gmail.com to Project details.
 
 <!---
